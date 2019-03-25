@@ -1,0 +1,44 @@
+body {
+	background-color: aquamarine
+}
+
+
+#start {
+	margin-top: 10px;
+}
+
+#restart {
+	margin-top: 10px;
+}
+
+#splashScreen {
+	display: inherit;
+	margin-top: 100px;
+}
+
+#questions {
+	display: none;
+	margin-top: 50px;
+}
+
+#alarm {
+	background: lightcoral;
+	margin-bottom: 100%
+}
+
+#text {
+	margin-bottom: 20px;
+}
+
+.btn {
+	font-size: 80%
+}
+#gameOver {
+	display: none;
+	margin-top: 50px;
+}
+
+#timer {
+	visibility: hidden;
+}
+
